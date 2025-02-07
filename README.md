@@ -3,7 +3,7 @@ Most Cookies - PicoCTF (Web Exploitation)
 ![Challenge Screenshot](pico.png)
 ## Acknowledgements
 
-This challenge is to specifically solve the challenge "Most Cookies" by MADSTACKS from PicoCTF under Web Exploitation category
+This code is to specifically solve the challenge "Most Cookies" by MADSTACKS from PicoCTF under Web Exploitation category
 
 
 ## Understanding Flask Cookies
