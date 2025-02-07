@@ -7,7 +7,7 @@ This challenge is to specifically solve the challenge "Most Cookies" by MADSTACK
 
 
 ## Understanding Flask Cookies
-Flask uses signed cookies to maintain session data. A typical Flask cookie consists of three parts, separated by a .:
+Flask uses signed cookies to maintain session data. A typical Flask cookie consists of three parts, separated by a '.'
 
 eyJ2ZXJ5X2F1dGgiOiJhZG1pbiJ9.Z6WkCQ.64p_wMAYBIzxHrpPTRXML_niZhw
 
