@@ -1,5 +1,5 @@
 Most Cookies - PicoCTF (Web Exploitation)
-![Challenge Screenshot](most_cookies/pico.png)
+![Challenge Screenshot](pico.png)
 
 This challenge is to specifically solve the challenge "Most Cookies" by MADSTACKS from PicoCTF under Web Exploitation category
 
